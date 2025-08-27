@@ -7,7 +7,7 @@ I'm passionate about digital security, networks, and system protection. Currentl
 🌱 Always dedicating myself to learning and growing in the field of cybersecurity.  
 
 📫 Let's connect:  
-[LinkedIn](www.linkedin.com/in/maxwellalves346) | [Email](maxwellalvespessoa000@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/maxwellalves346) | [Email](mailto:maxwellalvespessoa000@gmail.com)  
 
 ---
 
