@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Maxwell  
 
-<!--
-**Maxwell346/Maxwell346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student | 🔐 Aspiring Cybersecurity Professional  
 
-Here are some ideas to get you started:
+I'm passionate about digital security, networks, and system protection. Currently diving deep into ethical hacking, penetration testing, and information security.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Always dedicating myself to learning and growing in the field of cybersecurity.  
+
+📫 Let's connect:  
+[LinkedIn](www.linkedin.com/in/maxwellalves346) | [Email](maxwellalvespessoa000@gmail.com)  
+
+---
+
+### 💻 Tech & Tools  
+- Programming: Python, C, JavaScript (learning)
+- Security Tools: Wireshark, Nmap, Metasploit (learning)  
+- Others: Kali Linux, Linux, Git, Docker (learning)
+
+---
+
+### 📊 GitHub Stats  
+![Maxwell346's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxwell346&show_icons=true&theme=radical)
+
+
+---
+
+Thank you for visiting! I'm always open to collaboration and cybersecurity discussions. 🚀
