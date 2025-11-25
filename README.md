@@ -1,27 +1,36 @@
-# 👋 Hi, I'm Maxwell  
-
-🎓 Computer Science Student | 🔐 Aspiring Cybersecurity Professional  
-
-I'm passionate about digital security, networks, and system protection. Currently diving deep into ethical hacking, penetration testing, and information security.  
-
-🌱 Always dedicating myself to learning and growing in the field of cybersecurity.  
-
-📫 Let's connect:  
-[LinkedIn](https://www.linkedin.com/in/maxwellalves346) | [Email](mailto:maxwellalvespessoa000@gmail.com)  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=00F7FF&center=true&vCenter=true&width=650&lines=Maxwell+Alves;Cybersecurity+Student;Ethical+Hacking+Enthusiast;C+%2B+Python+Developer;Bem-vindo+ao+meu+GitHub!">
+</p>
 
 ---
 
-### 💻 Tech & Tools  
-- Programming: Python, C, JavaScript (learning)
-- Security Tools: Wireshark, Nmap, Metasploit (learning)  
-- Others: Kali Linux, Linux, Git, Docker (learning)
+<h1 align="center">🌙 Maxwell — Profile</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-00ffff?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-7f00ff?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Language-C/Python-ff00ff?style=for-the-badge">
+</p>
 
 ---
 
-### 📊 GitHub Stats  
-![Maxwell346's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxwell346&show_icons=true&theme=radical)
+## 🔥 Sobre mim
+Estudante de **Ciência da Computação** e amante de **Cibersegurança**, com foco em:
 
+✨ Ethical Hacking  
+✨ Forense Digital  
+✨ Programação em **C**   
+✨ Python para automação e ferramentas  
+✨ Redes, portas e protocolos  
 
 ---
 
-Thank you for visiting! I'm always open to collaboration and cybersecurity discussions. 🚀
+## 🧠 Skills 
+
+```text
+⚡ Cybersecurity — Pentest, Recon, Nmap, Wireshark  
+⚡ C Programming — memória, ponteiros, projetos práticos  
+⚡ Python — ferramentas de scan, automações, scripts  
+⚡ Linux — terminal, permissões, shells  
+⚡ Networking — TCP/IP, varredura de portas, protocolos  
+⚡ Git & GitHub — versionamento e documentação
